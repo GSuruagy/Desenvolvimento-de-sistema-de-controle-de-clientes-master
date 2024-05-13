@@ -1,0 +1,14 @@
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/bin/Debug/net8.0/Atividade
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/bin/Debug/net8.0/Atividade.deps.json
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/bin/Debug/net8.0/Atividade.runtimeconfig.json
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/bin/Debug/net8.0/Atividade.dll
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/bin/Debug/net8.0/Atividade.pdb
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/obj/Debug/net8.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/obj/Debug/net8.0/Atividade.AssemblyInfoInputs.cache
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/obj/Debug/net8.0/Atividade.AssemblyInfo.cs
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/obj/Debug/net8.0/Atividade.csproj.CoreCompileInputs.cache
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/obj/Debug/net8.0/Atividade.dll
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/obj/Debug/net8.0/refint/Atividade.dll
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/obj/Debug/net8.0/Atividade.pdb
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/obj/Debug/net8.0/Atividade.genruntimeconfig.cache
+/home/suruagy/Desenvolvimento-de-sistema-de-controle-de-clientes-master/obj/Debug/net8.0/ref/Atividade.dll
